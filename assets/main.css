@@ -112,6 +112,9 @@ body {
   width: 340px;
   flex: 1 1 auto;
 }
+#logo-img {
+  mix-blend-mode: lighten;
+}
 
 
 /* Products Section */
